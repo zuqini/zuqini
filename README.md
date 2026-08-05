@@ -5,7 +5,7 @@
 <p align="center">
   <img alt="canada" src="https://img.shields.io/badge/%F0%9F%8D%81%20Canada-FF0000?style=for-the-badge&labelColor=FF0000"/>
   <img alt="editor" src="https://img.shields.io/badge/editor-neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img alt="public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzuqini&query=%24.public_repos&style=for-the-badge&label=repos&logo=github&logoColor=white&color=118AB2"/>
+  <img alt="github stars" src="https://img.shields.io/github/stars/zuqini?style=for-the-badge&logo=github&logoColor=white&color=118AB2"/>
   <img alt="github since" src="https://img.shields.io/badge/github%20since-2013-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
